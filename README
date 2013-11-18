@@ -1,0 +1,9 @@
+***Data Structures in C***
+* by HappyPantz Inc.
+* written by Joseph Higley
+* October 2013
+**************************
+
+	These are a set of data structures written in C and made for reuse with different code.  The structs and functions used in these libraries will need to be altered slightly to reflect the kind of data that you'd like to use and manipulate.
+
+	Other than that they are full-featured and have plenty of functions built to do anything you would need to do with these functions.  If you think of something that I may have left out that may be useful, please feel free to email me and I'd be happy to put it in.
